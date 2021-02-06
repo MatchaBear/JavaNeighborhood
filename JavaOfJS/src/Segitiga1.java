@@ -4,7 +4,7 @@ public class Segitiga1 {
         String triangle = "";
 
         for (int count = 0; count < 7; count++) {
-            System.out.println(triangle += "#");
+            System.out.println(triangle += "+");
         }
     }
 }
